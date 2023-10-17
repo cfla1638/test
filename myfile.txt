@@ -1,1 +1,2 @@
 Hello, This is myfile.txt
+add: Register a change in an index
